@@ -1,3 +1,4 @@
+[![Board Status](https://matjung.visualstudio.com/17562032-b9c4-4e02-91d0-6a7f1863f059/068dc889-4691-4705-8dcb-8421db710277/_apis/work/boardbadge/032fa5f5-1379-414e-951a-2214abff94cc)](https://matjung.visualstudio.com/17562032-b9c4-4e02-91d0-6a7f1863f059/_boards/board/t/068dc889-4691-4705-8dcb-8421db710277/Microsoft.RequirementCategory)
 😄
 <!--
   <<< Author notes: Header of the course >>>
